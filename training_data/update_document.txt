@@ -1,0 +1,116 @@
+what is UAN Portal?
+UAN stands for Universal Account Number to be allotted by EPFO. The UAN will act as an umbrella for the multiple Member IDs allotted to an individual by different establishments. The idea is to link multiple Member Identification Numbers (Member Id) allotted to a single member under single Universal Account Number.
+
+Is it safe to share UAN number?
+Do not share your personal details, bank account, UAN over phone, warns EPFO. EPFO on its twitter handle is also warning its members not to respond to fake offers by websites, tele calls, SMS
+
+Can we transfer PF from one UAN to another UAN online?
+To merge two existing EPFO accounts, the member must visit the EPFO website and under the “Services” tab, click on “One employee - One EPF account” button. On clicking the link, a form will open for consolidating multiple EPF accounts. The member must enter his mobile number registered on the UAN portal.
+
+How can I check my old PF account?
+Visit the official website of EPF - epfindia.gov.in. Select the link - Click Here to Know your EPF Balance. Select the Member Balance Heading Section. Select your State of Residence and EPFO Office.
+
+What is KYC?
+Know your Customer or KYC is a one-time process which helps in identity verification of subscribers through linking of UAN with KYC details.The Employees / Employers need to provide KYC details viz. Aadhaar, PAN, Bank etc. for unique identification of the employees enabling seamless online services.
+
+How can an employee generate his UAN on his own?
+An employee can generate his UAN by visiting the unified member portal ‘https://unifiedportal-mem.epfindia.gov.in/memberinterface’ and clicking on Direct UAN Allotment by Employees. A valid Aadhaar number with registered mobile is pre-requisite to avail this facility. Employee has to provide employment details to obtain UAN.
+
+Can one mobile number be linked with multiple UANs?
+One mobile number can be used for registration with one UAN only.
+
+I have changed my job. Should I activate my UAN again?
+UAN has to be activated only once. You do not have to re-activate it every time you switch jobs.
+
+Do I have to pay any fee for UAN registration?
+No, UAN registration is free of cost and you do not have to pay any fee to activate it.
+
+Can I activate UAN through SMS or mobile app?
+You cannot activate UAN through SMS. However, you can activate UAN through Umang App. To download Umang app, please visit google play store.
+
+Do I need to upload documents on the EPFO Portal?
+No, you are not required to upload documents on the EPFO Portal. Just the name as per the document and the document number must be specified.
+
+What are the minimum details which are required to be linked with UAN for availing online services?
+Mobile, Aadhar and Bank account number.
+
+Is linking PAN with UAN beneficial for availing online services?
+Yes, if you link your PAN number with UAN then you can avail tax benefits on EPF withdrawal.
+
+What to do if my employer is not approving KYC?
+In case your employer is not approving KYC details, you can directly approach administration or HR department with request. If it is taking more time you can escalate it to higher authority in the organization.If  no  one  is  responding  to  your  request  you  can  approach  EPF  Grievance  via h ttp://epfigms.gov.in.
+
+How do I know that KYC updated by me is approved by the employer?
+The status will be shown against updated KYC document on the same page. The system will also trigger SMS on your register mobile number.
+
+My employer erroneously entered wrong PAN and Bank account details?
+You can login to your member portal and update the PAN and Bank account details yourself. The same will be digitally approved/updated by the employer.
+
+How to change my UAN linked mobile number?
+After login into the Member Interface of Unified Portal, there is a provision in “Member Profile” section to change your mobile number.
+
+Can I apply online claim if my mobile is not linked with Aadhaar?
+No, you cannot submit online claim if your mobile is not linked with Aadhaar. At the time of claim submission, OTP is sent to Aadhaar linked mobile only.
+
+What to do if my Aadhaar is not linked with mobile?
+Please visit your nearest Aadhaar Service Centre. For more details you can visit official website of UIDAI h ttps://uidai.gov.in .
+
+What to do if I forgot my password?
+Please click on “Forgot Password” at Member Interface of Unified Portal. Provide your UAN with CAPTCHA. System will send the OTP on your mobile which is seeded with UAN and you can reset the password.
+
+*********************************************************
+https://taxguru.in/corporate-law/faqs-uan-kyc-issued-epfo.html
+*********************************************************
+
+How to Update Ration Card Details in the UAN Portal?
+Visit the following website which shows details steps to follow. http://www.epfguide.com/update-ration-card-details-uan-portal/
+
+How to update Aadhaar Online in UAN Portal for EPF
+Visit the following website which shows details steps to follow. http://www.epfguide.com/update-aadhaar-online-uan-portal-epf/
+
+How to change Date of Birth(DOB) in PF Account?
+Visit the following website which shows details steps to follow. http://www.epfguide.com/change-date-birthdob-pf-account/
+
+How to change Father’s name in PF Account?
+Visit the following website which shows details steps to follow. http://www.epfguide.com/change-fathers-name-pf-account-explained/
+
+Updating Aadhaar in EPF UAN Portal
+Visit the following website which shows details steps to follow. http://www.epfguide.com/updating-aadhaar-in-epf-uan-portal/
+
+How to change or update Gender in UAN Portal
+Visit the following website which shows details steps to follow. http://www.epfguide.com/updating-aadhaar-in-epf-uan-portal/
+
+Where I can see my KYC details in UAN Portal?
+Visit the following website which shows details steps to follow. http://www.epfguide.com/can-see-kyc-details-uan-portal/
+
+How to file a Online EPF Claim for Form10C?
+Visit the following website which shows details steps to follow. http://www.epfguide.com/how-to-file-a-online-epf-claim-for-form10c/
+
+Changing Mobile Number in EPF – UAN Portal
+Visit the following website which shows details steps to follow. http://www.epfguide.com/changing-mobile-number-epf-uan-portal/
+
+How to upload profile picture in EPF UAN portal?
+Visit the following website which shows details steps to follow. http://www.epfguide.com/how-to-upload-profile-picture-in-epf-uan-portal/
+
+Generating UAN using Aadhaar
+Visit the following website which shows details steps to follow. http://www.epfguide.com/generating-uan-using-aadhaar/
+
+PAN Verification failed in the UAN Portal
+Visit the following website which shows details steps to follow. http://www.epfguide.com/pan-verification-failed-uan-portal/
+
+How to verify your SIM Card with Aadhaar without going to Store
+Visit the following website which shows details steps to follow. http://www.epfguide.com/how-to-verify-your-sim-card-with-aadhaar-without-going-to-store/
+
+Checking EPF Balance
+Visit the following website which shows details steps to follow. http://www.epfguide.com/checking-epf-balance/
+
+
+
+
+
+
+
+
+
+
+
